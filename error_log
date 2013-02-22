@@ -1,0 +1,4 @@
+[19-Feb-2013 23:59:31 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/justinac/public_html/fb/home.php on line 17
+[20-Feb-2013 00:07:33 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/justinac/public_html/fb/home.php on line 14
+[20-Feb-2013 00:08:44 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/justinac/public_html/fb/home.php on line 14
+[20-Feb-2013 10:56:30 America/Chicago] CSRF state token does not match one provided.
