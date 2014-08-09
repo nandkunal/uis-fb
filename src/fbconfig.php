@@ -1,6 +1,6 @@
 <?php
-$facebook_appid='482199005161505';
-$facebook_app_secret='49c761f7853be022af89fee428595eb9';
+$facebook_appid='**************';
+$facebook_app_secret='********************';
 $facebook = new Facebook(array(
 'appId' => $facebook_appid,
 'secret' => $facebook_app_secret,
